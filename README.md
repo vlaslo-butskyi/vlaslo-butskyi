@@ -20,7 +20,7 @@
 <br>
 
 <div align="center">
-    <img src="https://vlaslo-butskyi-stats.vercel.app/api?username=vlaslo-butskyi&count_private=true&include_all_commits=true&show_icons=true&text_color=9f9f9f&bg_color=303030" alt="Vlaslo's GitHub stats"/>
+    <img src="https://vlaslo-butskyi-stats.vercel.app/api?username=vlaslo-butskyi&count_private=true&show_icons=true&text_color=9f9f9f&bg_color=303030" alt="Vlaslo's GitHub stats"/>
     <br>
 
 [//]: # (    <img src="https://vlaslo-butskyi-stats.vercel.app/api/top-langs/?username=vlaslo-butskyi&layout=compact&show_icons=true&text_color=9f9f9f&bg_color=303030" alt="Vlaslo's Top Langs"/>)
