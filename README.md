@@ -9,7 +9,7 @@
 </div>
 
 <div align="center">
-    <img src="https://img.shields.io/badge/Python-3.6 | 3.7 | 3.8 | 3.9-blue?style=for-the-badge&logo=Python&logoColor=white&labelColor=303030"  alt="python"/>
+    <img src="https://img.shields.io/badge/Python-3.6 | 3.7 | 3.8 | 3.9 | 3.10-blue?style=for-the-badge&logo=Python&logoColor=white&labelColor=303030"  alt="python"/>
     <br>    
     <a href="mailto:vlaslo.butskyi@gmail.com"><img src="https://img.shields.io/badge/Email-303030?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335"  alt="email"/></a>
     <a href="https://www.linkedin.com/in/vlaslobutskyi"><img src="https://img.shields.io/badge/Linkedin-303030?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2"  alt="linkedin"/></a>
