@@ -1,11 +1,10 @@
 <div align="center">
+    <img src="assets/logo.png" alt="logo"/>
+    <br>
     <h1>👋 Hi! Welcome to my GitHub!</h1>
 </div>
 
 <div align="center">
-    <img src="assets/logo.png" alt="logo"/>
-    <h2>Vlaslo Butskyi</h2>
-    <h3>Back-End Software Developer</h3>
     <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </div>
 
