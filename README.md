@@ -19,14 +19,10 @@
 <br>
 
 <div align="center">
-    <img src="https://vlaslo-butskyi-stats.vercel.app/api?username=vlaslo-butskyi&count_private=true&show_icons=true&text_color=9f9f9f&bg_color=303030" alt="Vlaslo's GitHub stats"/>
+    <img src="https://vlaslo-butskyi-stats.vercel.app/api?username=vlaslo-butskyi&count_private=true&show_icons=true&bg_color=45,383838,000000&text_color=fbfbfb&icon_color=0A66C2&title_color=0A66C2&border_radius=0&border_color=383838" alt="Vlaslo's GitHub stats"/>
+    <br><br>
+    <img src="https://vlaslo-butskyi-stats.vercel.app/api/top-langs/?username=vlaslo-butskyi&layout=compact&show_icons=true&bg_color=45,383838,000000&text_color=fbfbfb&icon_color=0A66C2&title_color=0A66C2&border_radius=0&border_color=383838&hide=Go,Solidity,JavaScript&exclude_repo=github-readme-stats" alt="Vlaslo's Top Langs"/>
+    <br><br>
+    <img src="https://vlaslo-butskyi-stats.vercel.app/api/wakatime?username=vlaslo_butskyi&show_icons=true&bg_color=45,383838,000000&text_color=fbfbfb&icon_color=0A66C2&title_color=0A66C2&border_radius=0&border_color=383838&hide=requirements.txt,&layout=compact" alt="Vlaslo's wakatime stats"/>
     <br>
-
-[//]: # (    <img src="https://vlaslo-butskyi-stats.vercel.app/api/top-langs/?username=vlaslo-butskyi&layout=compact&show_icons=true&text_color=9f9f9f&bg_color=303030" alt="Vlaslo's Top Langs"/>)
-
-[//]: # (    <br>)
-
-[//]: # (    <img src="https://vlaslo-butskyi-stats.vercel.app/api/wakatime?username=vlaslo_butskyi&show_icons=true&text_color=9f9f9f&bg_color=303030" alt="Vlaslo's wakatime stats"/>)
-
-[//]: # (    <br>)
 </div>
